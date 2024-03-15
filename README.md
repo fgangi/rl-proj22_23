@@ -14,4 +14,4 @@ The implementation of the logical network system is achieved through Vivado, a p
 The final score for this project was 30/30.
 
 ## Authors
-Francesco Gangi, Simone Grandi.
+Francesco Gangi, Simone Grandi..
